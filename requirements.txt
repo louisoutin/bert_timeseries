@@ -1,0 +1,6 @@
+black
+pytest
+pytorch-lightning
+matplotlib
+plotly
+sklearn
